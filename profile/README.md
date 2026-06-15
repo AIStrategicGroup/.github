@@ -13,7 +13,7 @@ operations into automated, auditable pipelines.
 
 **Process Automation**
 We identify manual, repetitive workflows in financial operations and replace
-them with intelligent, scalable systems — built to handle real institutional
+them with intelligent, scalable systems built to handle real institutional
 data, not synthetic demos.
 
 **Document Intelligence**
@@ -22,7 +22,7 @@ using a combination of OCR, vision models, and LLM-based parsing pipelines.
 
 **Operational AI Agents**
 We design agentic workflows for classification, triage, and knowledge
-retrieval — deployed inside client infrastructure via containerized
+retrieval deployed inside client infrastructure via containerized
 microservices.
 
 ---
@@ -35,7 +35,7 @@ microservices.
 - **Engagement model:** embedded in client teams, from scoping to production
 
 We keep teams small and stay close to the domain.
-We don't hand off decks — we ship code that runs in production.
+We don't hand off decks, we ship code that runs in production.
 
 ---
 
@@ -53,7 +53,7 @@ More details available on request.
 
 We look for people who combine financial domain knowledge with strong Python
 and LLM engineering instincts. If you have worked with unstructured data,
-built RAG systems, or deployed agents in production — we want to talk.
+built RAG systems, or deployed agents in production, we want to talk.
 
 **Relevant backgrounds:** AI/ML engineers, NLP specialists, financial data
 engineers, AI product consultants with fintech exposure.
